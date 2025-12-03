@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Swag",
+  "base_artist": "Miyauchi",
+  "createdAt": "2025-12-03T14:02:20.485761Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Future Swag",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/01_Future_Swag_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SWAG",
+      "artist": "YG",
+      "has_synced": true,
+      "path": "select/02_SWAG_YG.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Swag Surf",
+      "artist": "lil wayne",
+      "has_synced": true,
+      "path": "select/03_Swag_Surf_lil_wayne.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Woo Woo Swag",
+      "artist": "Lil B",
+      "has_synced": false,
+      "path": "select/04_Woo_Woo_Swag_Lil_B.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ice Cream Swag (feat. Cam'ron)",
+      "artist": "MadeinTYO feat. Cam’ron",
+      "has_synced": true,
+      "path": "select/05_Ice_Cream_Swag_(feat._Cam'ron)_MadeinTYO_feat._Cam’ron.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ice Cream Swag (feat. Cam'ron)",
+      "artist": "Cam'ron & MadeinTYO",
+      "has_synced": true,
+      "path": "select/06_Ice_Cream_Swag_(feat._Cam'ron)_Cam'ron_&_MadeinTYO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Flipside (Swag Mocoder Dub)",
+      "artist": "Moloko",
+      "has_synced": false,
+      "path": "select/07_The_Flipside_(Swag_Mocoder_Dub)_Moloko.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Swag",
+      "artist": "Chief Keef",
+      "has_synced": false,
+      "path": "select/08_Swag_Chief_Keef.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Turn My Swag On",
+      "artist": "Soulja Boy",
+      "has_synced": true,
+      "path": "select/09_Turn_My_Swag_On_Soulja_Boy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Swag Se Swagat (From \"Tiger Zinda Hai\")",
+      "artist": "Vishal Dadlani & Neha Bhasin",
+      "has_synced": true,
+      "path": "select/10_Swag_Se_Swagat_(From__Tiger_Zinda_Hai_)_Vishal_Dadlani_&_Neha_Bhasin.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Swag Se Swagat",
+      "artist": "Vishal Dadlani & Neha Bhasin",
+      "has_synced": true,
+      "path": "select/11_Swag_Se_Swagat_Vishal_Dadlani_&_Neha_Bhasin.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "My Life, My Swag",
+      "artist": "JJ",
+      "has_synced": false,
+      "path": "select/12_My_Life,_My_Swag_JJ.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "My Swag, My Life",
+      "artist": "JJ",
+      "has_synced": true,
+      "path": "select/13_My_Swag,_My_Life_JJ.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Unlock The Swag",
+      "artist": "Rae Sremmurd feat. Jace of Two-9",
+      "has_synced": true,
+      "path": "select/14_Unlock_The_Swag_Rae_Sremmurd_feat._Jace_of_Two-9.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Unlock the Swag (Feat. Jace of Two-9)",
+      "artist": "Rae Sremmurd",
+      "has_synced": true,
+      "path": "select/15_Unlock_the_Swag_(Feat._Jace_of_Two-9)_Rae_Sremmurd.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "My Swag",
+      "artist": "T.I. feat. Wyclef Jean",
+      "has_synced": true,
+      "path": "select/16_My_Swag_T.I._feat._Wyclef_Jean.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Swag",
+      "artist": "Miyauchi",
+      "has_synced": false,
+      "path": "select/pl_01_Swag_Miyauchi.txt"
+    }
+  ]
+}
